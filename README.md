@@ -7,4 +7,4 @@ In this exercises, you should make a form which takes payment information from s
 
 - **Student ID*u1610036*: 
 - **Student Name*Aziz Bokhidjonov*: 
- **Section Number*001*: 
+- **Section Number*001*: 
