@@ -5,6 +5,6 @@ In this exercises, you should make a form which takes payment information from s
 
 ### Student Details:
 
-- **Student ID*u1610036*: your student id
-- **Student Name*Aziz Bokhidjonov*: your name
-- **Section Number*001*: your section number
+- **Student ID*u1610036*: 
+- **Student Name*Aziz Bokhidjonov*: 
+ **Section Number*001*: 
